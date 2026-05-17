@@ -10,7 +10,7 @@ Astronautical Engineering student at the University of Southern California (USC)
 Developed a parametrized Siemens NX layout for RPL's Baja Blast II static fire using a single master geometry sketch and expression-driven design architecture
 
 ### Composite Structure Layups
-Contributed to past and present RPL vehicles through manufacturing parts: carbon epoxy case, cork TPS nosecone, carbon fiber fins, honeycomb core fins, carbon phenolic nozzle
+Manufactured and integrated composite structures for past and current RPL vehicles, including carbon epoxy cases, cork TPS nosecones, carbon fiber fins, honeycomb core fins, and carbon phenolic nozzles
 
 ### Zero-G Water Purification Experiment
 Tested effects of Procter & Gamble's water purification powder in micro- and artificial gravity environments aboard Zero-G's plane through designing, building, testing, and revising an experiment over the course of nine months
