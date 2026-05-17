@@ -39,5 +39,5 @@ Tested effects of Procter & Gamble's water purification powder in micro- and art
 
 ## Contact
 
-- LinkedIn: [www.linkedin.com/in/zoezlatic]
-- Email: zoe.zlatic@gmail.com
+- [LinkedIn](www.linkedin.com/in/zoezlatic)
+- [Email](zoe.zlatic@gmail.com)
